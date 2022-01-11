@@ -29,7 +29,7 @@
     "check-changed-files": "ts-node scripts/ts-check-changed-files.ts"
   },
   "engines": {
-    "node": ">=14.x",
+    "node": "14.15.3",
     "yarn": ">=1.19.0 < 2.0.0"
   },
   "dependencies": {
